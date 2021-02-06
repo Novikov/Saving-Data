@@ -1,0 +1,7 @@
+#Sat Jan 23 19:44:35 MSK 2021
+base.0=/home/x/Desktop/saving_data/Saving_Data_on_Android_Source_Code_v1.0.0/02-using-sharedpreferences/final/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/x/Desktop/saving_data/Saving_Data_on_Android_Source_Code_v1.0.0/02-using-sharedpreferences/final/app/build/intermediates/dex/debug/mergeProjectDexDebug/out

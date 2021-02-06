@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/x/Desktop/saving_data/Saving_Data_on_Android_Source_Code_v1.0.0/02-using-sharedpreferences/final/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/x/.gradle/caches/transforms-2/files-2.1/00633cccae431b6120c00e734fb362fd/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

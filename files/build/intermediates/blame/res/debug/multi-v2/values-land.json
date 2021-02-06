@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/x/GIT/Saving-Data/files/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/x/.gradle/caches/transforms-2/files-2.1/d360e4a998622961bd2c8519f445080f/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
