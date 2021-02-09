@@ -1,2 +1,3 @@
+include ':room'
 include ':shared_preferences'
 include ':files'

@@ -6,13 +6,27 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae27aa17-4d98-44ad-8ab0-9275fd3f43a3" name="Default Changelist" comment="" />
+    <list default="true" id="ae27aa17-4d98-44ad-8ab0-9275fd3f43a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/files/files.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/files/files.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/shared_preferences/shared_preferences.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/shared_preferences/shared_preferences.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_26" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="813H7DVH227FY" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -25,6 +39,9 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1o6SojawLFzKE0bC8GdEUW3uy16" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,8 +50,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/saving_data/Saving_Data_on_Android_Source_Code_v1.0.0/02-using-sharedpreferences/final" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/saving_data/Saving_Data_on_Android_Source_Code_v1.0.0/10-data-migration/final" />
   </component>
   <component name="RunManager" selected="Android App.shared_preferences">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -161,10 +179,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="705" y="275" width="489" height="520" key="FileChooserDialogImpl" timestamp="1612609031884">
+    <state x="705" y="275" width="489" height="527" key="FileChooserDialogImpl" timestamp="1612890430796">
       <screen x="0" y="27" width="1920" height="1003" />
     </state>
-    <state x="705" y="275" width="489" height="520" key="FileChooserDialogImpl/0.27.1920.1003@0.27.1920.1003" timestamp="1612609031884" />
+    <state x="705" y="275" width="489" height="527" key="FileChooserDialogImpl/0.27.1920.1003@0.27.1920.1003" timestamp="1612890430796" />
     <state width="1874" height="259" key="GridCell.Tab.0.bottom" timestamp="1612609049839">
       <screen x="0" y="27" width="1920" height="1003" />
     </state>
@@ -189,5 +207,9 @@
       <screen x="0" y="27" width="1920" height="1003" />
     </state>
     <state x="100" y="127" width="1720" height="803" key="com.android.tools.idea.avdmanager.AvdListDialog/0.27.1920.1003@0.27.1920.1003" timestamp="1612609005777" />
+    <state x="616" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1612890338268">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state x="616" y="356" key="com.intellij.ide.util.TipDialog/0.27.1920.1003@0.27.1920.1003" timestamp="1612890338268" />
   </component>
 </project>
