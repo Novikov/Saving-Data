@@ -45,3 +45,15 @@ class QuestionAndAllAnswers {
   )
   var answers: List<Answer> = ArrayList()
 }
+
+//данный класс это упрощение взамен создания двух методов в DAO. Подробнее на странице 128.
+//Он содержит вопрос и лист ответов для него.
+//@Query("SELECT * FROM question ORDER BY question_id")
+//fun getAllQuestions(): LiveData<List<Question>>
+//@Query("SELECT * FROM answer WHERE question_id = :questionId")
+//fun getAnswersForQuestion(questionId: Int): List<Answer>
+
+
+//Аннотация @Embedded (в переводе встроенный) используется для добавления сущнойстоей одного класса в другой, чтобы обращаться
+// к нему как к единому целому
+

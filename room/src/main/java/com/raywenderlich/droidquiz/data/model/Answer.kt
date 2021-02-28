@@ -35,6 +35,8 @@ package com.raywenderlich.droidquiz.data.model
 import androidx.room.*
 import androidx.room.ForeignKey.CASCADE
 
+
+//Тут parentColumn это поле Question, а childColumn это поле Answer
 @Entity(
   tableName = "answer",
   foreignKeys = [

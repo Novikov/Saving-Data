@@ -35,6 +35,8 @@ package com.raywenderlich.droidquiz.data
 import com.raywenderlich.droidquiz.data.model.Answer
 import com.raywenderlich.droidquiz.data.model.Question
 
+//Объект для инициализации БД значениями
+
 object QuestionInfoProvider {
 
   var questionList = initQuestionList()
