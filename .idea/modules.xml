@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/files/files.iml" filepath="$PROJECT_DIR$/.idea/modules/files/files.iml" group="Saving-Data/files" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/room/room.iml" filepath="$PROJECT_DIR$/.idea/modules/room/room.iml" group="Saving-Data/room" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared_preferences/shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/shared_preferences/shared_preferences.iml" group="Saving-Data/shared_preferences" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqLite/sqLite.iml" filepath="$PROJECT_DIR$/.idea/modules/sqLite/sqLite.iml" group="Saving-Data/sqLite" />
     </modules>
   </component>
 </project>
